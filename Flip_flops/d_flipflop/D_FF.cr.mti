@@ -1,0 +1,29 @@
+{D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/d_flipflop_gate.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/d_flipflop_gate.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module d_flipflop_gate
+
+Top level modules:
+	d_flipflop_gate
+
+} {} {}} {D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/sr_flipflop_gate.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/sr_flipflop_gate.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module sr_flipflop_gate
+
+Top level modules:
+	sr_flipflop_gate
+
+} {} {}} {D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/tb_d_flipflop.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/tb_d_flipflop.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_d_flipflop
+
+Top level modules:
+	tb_d_flipflop
+
+} {} {}} {D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/tb_sr_flipflop.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/tb_sr_flipflop.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_sr_flipflop
+
+Top level modules:
+	tb_sr_flipflop
+
+} {} {}}

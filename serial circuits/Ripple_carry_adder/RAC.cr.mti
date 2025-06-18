@@ -1,0 +1,29 @@
+{D:/VLSI FIRST/Assignment/16-6-25/Ripple_carry_adder/rac_tb.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/Assignment/16-6-25/Ripple_carry_adder/rac_tb.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module rca_tb
+
+Top level modules:
+	rca_tb
+
+} {} {}} {D:/VLSI FIRST/Assignment/16-6-25/Ripple_carry_adder/tb_full_adder.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/Assignment/16-6-25/Ripple_carry_adder/tb_full_adder.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_full_adder
+
+Top level modules:
+	tb_full_adder
+
+} {} {}} {D:/VLSI FIRST/Assignment/16-6-25/Ripple_carry_adder/full_adder.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/Assignment/16-6-25/Ripple_carry_adder/full_adder.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} {D:/VLSI FIRST/Assignment/16-6-25/Ripple_carry_adder/rac.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/Assignment/16-6-25/Ripple_carry_adder/rac.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module rca
+
+Top level modules:
+	rca
+
+} {} {}}
