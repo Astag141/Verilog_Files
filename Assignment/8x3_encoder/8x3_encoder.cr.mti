@@ -1,0 +1,22 @@
+C:/Users/Deviprasad/OneDrive/Desktop/Class_code_test/Assignment/8x3_encoder/encoder_8x3_dataflow.v {1 {vlog -work work -vopt -stats=none C:/Users/Deviprasad/OneDrive/Desktop/Class_code_test/Assignment/8x3_encoder/encoder_8x3_dataflow.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module encoder_8x3_dataflow
+
+Top level modules:
+	encoder_8x3_dataflow
+
+} {} {}} C:/Users/Deviprasad/OneDrive/Desktop/Class_code_test/Assignment/8x3_encoder/tb_encoder_8x3_dataflow.v {1 {vlog -work work -vopt -stats=none C:/Users/Deviprasad/OneDrive/Desktop/Class_code_test/Assignment/8x3_encoder/tb_encoder_8x3_dataflow.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_encoder_8x3_dataflow
+
+Top level modules:
+	tb_encoder_8x3_dataflow
+
+} {} {}} C:/Users/Deviprasad/OneDrive/Desktop/Class_code_test/Assignment/8x3_encoder/top_encoder_8x3_dataflow.v {1 {vlog -work work -vopt -stats=none C:/Users/Deviprasad/OneDrive/Desktop/Class_code_test/Assignment/8x3_encoder/top_encoder_8x3_dataflow.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module top_encoder_8x3_dataflow
+
+Top level modules:
+	top_encoder_8x3_dataflow
+
+} {} {}}
