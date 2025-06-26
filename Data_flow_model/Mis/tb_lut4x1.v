@@ -1,0 +1,1 @@
+module tb_lut4x1; reg [3:0] addr; wire y; lut4x1 uut (.addr(addr), .y(y)); initial begin for (addr=0; addr<10; addr=addr+1) begin #5 $display("Addr=%b Y=%b", addr, y); end end endmodule

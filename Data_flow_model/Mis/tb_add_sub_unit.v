@@ -1,0 +1,1 @@
+module tb_add_sub_unit; reg [3:0] a, b; reg sel; wire [3:0] result; add_sub_unit uut (.a(a), .b(b), .sel(sel), .result(result)); initial begin a=4'd5; b=4'd3; sel=0; #10 $display("ADD: %d", result); sel=1; #10 $display("SUB: %d", result); end endmodule

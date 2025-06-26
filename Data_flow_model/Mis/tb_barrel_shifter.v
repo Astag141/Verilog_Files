@@ -1,0 +1,1 @@
+module tb_barrel_shifter; reg [3:0] data; reg [1:0] shift; wire [3:0] out; barrel_shifter uut (.data(data), .shift(shift), .out(out)); initial begin data=4'b1101; for (shift=0; shift<4; shift=shift+1) begin #10 $display("Shift=%b Out=%b", shift, out); end end endmodule
