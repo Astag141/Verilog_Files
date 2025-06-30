@@ -1,0 +1,19 @@
+Start time: 17:26:15 on Jun 30,2025
+qverilog encoder_tb.v "+acc" 
+-- Compiling module encoder
+-- Compiling module encoder_tb
+
+Top level modules:
+	encoder_tb
+# vsim FIRST\SOFT\qeseta sim\win64\vsim work.encoder_tb -lib work -c -do "run -all; quit -f" -appendlog -l qverilog.log -vopt 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: (vopt-13130) Failed to find design unit FIRSTSOFTqeseta.
+#         Searched libraries:
+#             work
+# ** Error: (vopt-13130) Failed to find design unit simwin64vsim.
+#         Searched libraries:
+#             work
+# Optimization failed
+# Error loading design
+# End time: 17:26:16 on Jun 30,2025, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 0

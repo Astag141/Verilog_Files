@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VLSI FIRST/SOFT/qeseta sim/examples
+T_opt
+!s110 1750928335
+VD[5aD?09kWn^YlhDF>8AM3
+04 10 4 work tb_mux2to1 fast 0
+=1-10683832300d-685d0bce-3c2-6648
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vmux2to1
+!s110 1750928285
+!i10b 1
+!s100 41A>OzVVI9edIBKKjS?9?1
+I;ko>neWFGkBOa6V^<RziK0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/VLSI FIRST/CODES/Assignment/MUX_IF/mux2to1
+Z3 w1750928210
+8D:/VLSI FIRST/CODES/Assignment/MUX_IF/mux2to1/mux2to1.v
+FD:/VLSI FIRST/CODES/Assignment/MUX_IF/mux2to1/mux2to1.v
+L0 1
+Z4 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1750928285.000000
+!s107 D:/VLSI FIRST/CODES/Assignment/MUX_IF/mux2to1/mux2to1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VLSI FIRST/CODES/Assignment/MUX_IF/mux2to1/mux2to1.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_mux2to1
+!s110 1750928286
+!i10b 1
+!s100 ZE`O0cRNL2fX]h2DTU8hc0
+I0[oB40OSX_W[LDmIQREC=2
+R1
+R2
+R3
+8D:/VLSI FIRST/CODES/Assignment/MUX_IF/mux2to1/tb_mux2to1.v
+FD:/VLSI FIRST/CODES/Assignment/MUX_IF/mux2to1/tb_mux2to1.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1750928286.000000
+!s107 D:/VLSI FIRST/CODES/Assignment/MUX_IF/mux2to1/tb_mux2to1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VLSI FIRST/CODES/Assignment/MUX_IF/mux2to1/tb_mux2to1.v|
+!i113 0
+R5
+R0

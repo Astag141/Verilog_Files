@@ -1,0 +1,19 @@
+Start time: 17:20:12 on Jun 30,2025
+qverilog encoder_tb.v 
+-- Compiling module encoder
+-- Compiling module encoder_tb
+** Error: encoder_tb.v(16): 'For' statement found with an empty body.  This is permitted in SystemVerilog, but not permitted in Verilog.  Please look for any stray semicolons.
+** Error: (qverilog-13067) encoder_tb.v(22:2): Syntax error, unexpected non-printable character with the hex value '0xc2'.
+** Error: (qverilog-13067) encoder_tb.v(22:3): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (qverilog-13067) encoder_tb.v(22:4): Syntax error, unexpected non-printable character with the hex value '0xc2'.
+** Error: (qverilog-13067) encoder_tb.v(22:5): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (qverilog-13067) encoder_tb.v(22:6): Syntax error, unexpected non-printable character with the hex value '0xc2'.
+** Error: (qverilog-13067) encoder_tb.v(22:7): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (qverilog-13067) encoder_tb.v(22:8): Syntax error, unexpected non-printable character with the hex value '0xc2'.
+** Error: (qverilog-13067) encoder_tb.v(22:9): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (qverilog-13067) encoder_tb.v(22:10): Syntax error, unexpected non-printable character with the hex value '0xc2'.
+** Error: (qverilog-13067) encoder_tb.v(22:11): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+** Error: (qverilog-13067) encoder_tb.v(22:12): Syntax error, unexpected non-printable character with the hex value '0xc2'.
+** Error: (qverilog-13067) encoder_tb.v(22:13): Syntax error, unexpected non-printable character with the hex value '0xa0'.
+End time: 17:20:12 on Jun 30,2025, Elapsed time: 0:00:00
+Errors: 13, Warnings: 0
