@@ -1,0 +1,124 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VLSI FIRST/CODES/Assignment/Gates_Using_MUX/and_gate
+T_opt
+!s110 1751275816
+V>cLafQeGK;LV33h@1WLo81
+04 12 4 work tb_nand_gate fast 0
+=2-644ed7a17194-68625928-b6-386c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vand_gate_using_mux
+Z1 !s110 1751275801
+!i10b 1
+!s100 X<NK40mU`MOca9@0lIOCi2
+IWl]`LN;<6H@5k4f[ffEF=2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/VLSI FIRST/CODES/Assignment/Gates_Using_MUX/nand_gate
+Z4 w1751272594
+Z5 8D:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\nand_gate\nand_gate.v
+Z6 FD:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\nand_gate\nand_gate.v
+L0 5
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z8 !s108 1751275801.000000
+Z9 !s107 D:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\nand_gate\nand_gate.v|
+Z10 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\nand_gate\nand_gate.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vmux2to1
+R1
+!i10b 1
+!s100 L2ze0F<<XDW2P>5=00[XH0
+IBHgfd0G`O^J:?Edkb3TFG3
+R2
+R3
+R4
+R5
+R6
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R0
+vnand_gate_using_mux
+R1
+!i10b 1
+!s100 Pj;lJOO`zX1io?LS[_dXo1
+I@[;U[XfD6FAYFaldlPP@D2
+R2
+R3
+R4
+R5
+R6
+L0 13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R0
+vnot_gate_using_mux
+R1
+!i10b 1
+!s100 kzOm@h@<c?jiTbkoZ8hd51
+Im4CK6TD4bG0dI:0c7F><H0
+R2
+R3
+R4
+R5
+R6
+L0 9
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R0
+vtb_nand_gate
+R1
+!i10b 1
+!s100 Yd<IODVUYFmWlo1i7W8J61
+Ig;H?C`D>YgY75eaBfXGFK1
+R2
+R3
+w1751275795
+8D:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\nand_gate\tb_nand_gate.v
+FD:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\nand_gate\tb_nand_gate.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\nand_gate\tb_nand_gate.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\nand_gate\tb_nand_gate.v|
+!i113 0
+R11
+R0

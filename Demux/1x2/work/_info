@@ -1,0 +1,82 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI FIRST/Combitional_Circuit/MUX/4X1
+T_opt
+!s110 1750071933
+V0>S^H6SmEW7`B[SM98ZD51
+04 8 4 work demux1x2 fast 0
+=1-644ed7a17194-684ffa7c-32f-f68
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1750071939
+VlEg7_fC2`gWeQeVkBdFVf0
+Z4 04 11 4 work tb_demux1x2 fast 0
+=1-644ed7a17194-684ffa83-1b0-d2c
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1750055799
+V;K5OOUzoR;a_dREok3[jl3
+R4
+=1-10683832300d-684fbb77-197-109c
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt2
+R3
+R0
+vdemux1x2
+Z5 !s110 1750071980
+!i10b 1
+!s100 3FWC7N4hPO0adIEUC_Hb71
+Ifzc[3XM3ZhMT=>:J?TFMD3
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 dD:/VLSI FIRST/Combitional_Circuit/Demux/1x2
+Z8 w1749800086
+8D:/VLSI FIRST/Combitional_Circuit/Demux/1x2/demux1x2.v
+FD:/VLSI FIRST/Combitional_Circuit/Demux/1x2/demux1x2.v
+L0 1
+Z9 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z10 !s108 1750071980.000000
+!s107 D:/VLSI FIRST/Combitional_Circuit/Demux/1x2/demux1x2.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|D:/VLSI FIRST/Combitional_Circuit/Demux/1x2/demux1x2.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb_demux1x2
+R5
+!i10b 1
+!s100 L`dHTOcm;VFcCn4P2QVG^1
+ISE^S5nRCmT:feO:b=4YH61
+R6
+R7
+R8
+8D:/VLSI FIRST/Combitional_Circuit/Demux/1x2/tb_demux1x2.v
+FD:/VLSI FIRST/Combitional_Circuit/Demux/1x2/tb_demux1x2.v
+L0 1
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/VLSI FIRST/Combitional_Circuit/Demux/1x2/tb_demux1x2.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|D:/VLSI FIRST/Combitional_Circuit/Demux/1x2/tb_demux1x2.v|
+!i113 0
+R11
+R2

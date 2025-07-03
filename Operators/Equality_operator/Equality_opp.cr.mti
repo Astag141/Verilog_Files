@@ -1,0 +1,22 @@
+{D:/VLSI FIRST/CODES/Operators/Equality_operator/equality_operators.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/CODES/Operators/Equality_operator/equality_operators.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module equality_operators
+
+Top level modules:
+	equality_operators
+
+} {} {}} {D:/VLSI FIRST/CODES/Operators/Equality_operator/eq_des.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/CODES/Operators/Equality_operator/eq_des.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module des
+
+Top level modules:
+	des
+
+} {} {}} {D:/VLSI FIRST/CODES/Operators/Equality_operator/Equality.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/CODES/Operators/Equality_operator/Equality.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module des
+
+Top level modules:
+	des
+
+} {} {}}

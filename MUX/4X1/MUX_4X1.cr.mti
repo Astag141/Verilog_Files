@@ -1,0 +1,15 @@
+{D:/VLSI FIRST/Combitional_Circuit/MUX/4X1/mux4x1.v} {1 {vlog -work work -vopt -stats=none {D:\VLSI FIRST\Combitional_Circuit\MUX\4X1\mux4x1.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module mux4x1
+
+Top level modules:
+	mux4x1
+
+} {} {}} {D:/VLSI FIRST/Combitional_Circuit/MUX/4X1/tb_mux4x1.v} {1 {vlog -work work -vopt -stats=none {D:\VLSI FIRST\Combitional_Circuit\MUX\4X1\tb_mux4x1.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_mux4x1
+
+Top level modules:
+	tb_mux4x1
+
+} {} {}}

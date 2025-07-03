@@ -1,0 +1,8 @@
+Start time: 14:36:01 on Jun 30,2025
+qverilog tb_and_gate.v 
+-- Compiling module tb_and_gate
+** Error: (qverilog-13027) tb_and_gate.v(9): near "i": Syntax error. 'for' loop variable declaration only allowed in SystemVerilog.
+** Error: tb_and_gate.v(9): (qverilog-2730) Undefined variable: 'i'.
+** Error: (qverilog-13069) tb_and_gate.v(9): near ")": syntax error, unexpected ')', expecting ';'.
+End time: 14:36:01 on Jun 30,2025, Elapsed time: 0:00:00
+Errors: 3, Warnings: 0

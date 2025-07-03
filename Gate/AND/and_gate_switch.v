@@ -1,0 +1,18 @@
+module and_gate_switch(input a, b, output y);
+    supply1 Vdd;
+    supply0 Gnd;
+
+    wire nand_out;
+
+    // NAND implementation
+    wire n1;
+    nmos (n1, Gnd, a);
+    nmos (nand_out, n1, b);
+    pmos (nand_out, Vdd, a);
+    pmos (nand_out, Vdd, b);
+
+    // NOT implementation (to get AND)
+    pmos (y, Vdd, nand_out);
+    nmos (y, Gnd, nand_out);
+endmodule
+

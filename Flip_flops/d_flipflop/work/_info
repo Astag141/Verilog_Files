@@ -1,0 +1,103 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VLSI FIRST/SOFT/qeseta sim/examples
+T_opt
+!s110 1750223860
+VR4mmM`b45Lon336a<>5@D1
+04 13 4 work tb_d_flipflop fast 0
+=1-644ed7a17194-68524bf4-262-598c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vd_flipflop_gate
+Z1 !s110 1750223844
+!i10b 1
+!s100 <i31:@SN?:`h`lPozd1Q10
+Inj87k4;BH0;nSR2bgAI?03
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/VLSI FIRST/CODES/Flip_flops/d_flipflop
+Z4 w1750223250
+8D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/d_flipflop_gate.v
+FD:/VLSI FIRST/CODES/Flip_flops/d_flipflop/d_flipflop_gate.v
+L0 1
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z6 !s108 1750223844.000000
+!s107 D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/d_flipflop_gate.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/d_flipflop_gate.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vsr_flipflop_gate
+R1
+!i10b 1
+!s100 >OlZ9KB6OB=gMV8d<Vg6S2
+Ia]hbm?BC7j_?Ac1KkTMlF3
+R2
+R3
+Z8 w1750223672
+8D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/sr_flipflop_gate.v
+FD:/VLSI FIRST/CODES/Flip_flops/d_flipflop/sr_flipflop_gate.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/sr_flipflop_gate.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/sr_flipflop_gate.v|
+!i113 0
+R7
+R0
+vtb_d_flipflop
+R1
+!i10b 1
+!s100 ]BKQZcP@F0GY14EWcBZYR1
+IL`<5<:zL@c@G^]KS=DLFn3
+R2
+R3
+R4
+8D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/tb_d_flipflop.v
+FD:/VLSI FIRST/CODES/Flip_flops/d_flipflop/tb_d_flipflop.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/tb_d_flipflop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/tb_d_flipflop.v|
+!i113 0
+R7
+R0
+vtb_sr_flipflop
+R1
+!i10b 1
+!s100 Zm>j9ie8UjSH4WmUoZgob0
+IcC?RN1UPPELPl<Q4KJ`e>3
+R2
+R3
+R8
+8D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/tb_sr_flipflop.v
+FD:/VLSI FIRST/CODES/Flip_flops/d_flipflop/tb_sr_flipflop.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/tb_sr_flipflop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VLSI FIRST/CODES/Flip_flops/d_flipflop/tb_sr_flipflop.v|
+!i113 0
+R7
+R0

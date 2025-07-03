@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI FIRST/CODES/Operators/logical
+T_opt
+!s110 1750309529
+VMJD>HA9`LOQQfch><kl`51
+04 18 4 work equality_operators fast 0
+=1-644ed7a17194-68539a98-3ce-3f10
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1750309553
+VSac]82hc>Y<7F=0IRJWK]0
+04 3 4 work des fast 0
+=1-644ed7a17194-68539ab0-3ce-1670
+R1
+R2
+n@_opt1
+R3
+vdes
+Z4 !s110 1750309512
+!i10b 1
+!s100 oK3HUj>9Od^KUF>=;YIS03
+I;4R2z;WdX:BhmhX2N1O9A1
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/VLSI FIRST/CODES/Operators/Equality_operator
+w1750309017
+8D:/VLSI FIRST/CODES/Operators/Equality_operator/Equality.v
+FD:/VLSI FIRST/CODES/Operators/Equality_operator/Equality.v
+L0 1
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z8 !s108 1750309512.000000
+!s107 D:/VLSI FIRST/CODES/Operators/Equality_operator/Equality.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VLSI FIRST/CODES/Operators/Equality_operator/Equality.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vequality_operators
+R4
+!i10b 1
+!s100 d2OB`YC5@Jd@IYe]`8X4I3
+I_nCa0Z]`;6>F`zOmZN[SM2
+R5
+R6
+w1750309188
+8D:/VLSI FIRST/CODES/Operators/Equality_operator/equality_operators.v
+FD:/VLSI FIRST/CODES/Operators/Equality_operator/equality_operators.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/VLSI FIRST/CODES/Operators/Equality_operator/equality_operators.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VLSI FIRST/CODES/Operators/Equality_operator/equality_operators.v|
+!i113 0
+R9
+R2

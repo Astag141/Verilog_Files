@@ -1,0 +1,17 @@
+module tb_not_gate;
+    reg a;
+    wire y;
+    integer i;
+
+    not_gate_using_mux uut(.a(a), .y(y));
+
+    initial begin
+        $display("A | NOT");
+        $display("-------");
+        for ( i = 0; i < 2; i = i + 1) begin
+            a = i;
+            #1 $display("%b |  %b", a, y);
+        end
+#4 $finish;
+    end
+endmodule

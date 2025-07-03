@@ -1,0 +1,155 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI FIRST/CODES/Assignment/Gates_Using_MUX/xnor_gate
+T_opt
+!s110 1751342977
+VFjL0n3lRV;T48kz[?o_d52
+Z1 04 11 4 work tb_xor_gate fast 0
+=1-10683832300d-68635f80-3ab-5524
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1751343158
+VEd@gO>:JM<f^ViB_Q[a;@0
+R1
+=1-10683832300d-68636036-25d-4704
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vand_gate_using_mux
+Z4 !s110 1751342961
+!i10b 1
+!s100 Pd8nO>RJMP6[27nCmgR`30
+IFgO^PbfPfhe@JE`e?PkFg2
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/VLSI FIRST/CODES/Assignment/Gates_Using_MUX/xor_gate
+Z7 w1751272594
+Z8 8D:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\xor_gate\xor_gate.v
+Z9 FD:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\xor_gate\xor_gate.v
+L0 9
+Z10 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z11 !s108 1751342961.000000
+Z12 !s107 D:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\xor_gate\xor_gate.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\xor_gate\xor_gate.v|
+!i113 0
+Z14 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vmux2to1
+R4
+!i10b 1
+!s100 L2ze0F<<XDW2P>5=00[XH0
+IY<`S]ZbGSK7^Uf:@7zf_S2
+R5
+R6
+R7
+R8
+R9
+L0 1
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+vnot_gate_using_mux
+R4
+!i10b 1
+!s100 AD9Ra`01;^=Mha3c5H^hY2
+IV5IhVOU?3]2D7NzCXR0`J2
+R5
+R6
+R7
+R8
+R9
+L0 5
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+vor_gate_using_mux
+R4
+!i10b 1
+!s100 oW;hL`AaN8:`NQ?YDDaQ^0
+IQ<37zn6Emo>Llj^GL;M?>2
+R5
+R6
+R7
+R8
+R9
+L0 13
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+vtb_xor_gate
+R4
+!i10b 1
+!s100 g;kmgZTO>`C6O?UmP2=EZ3
+I4lTIVo9T3W9TWX2U?XCQ[0
+R5
+R6
+w1751342955
+8D:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\xor_gate\tb_xor_gate.v
+FD:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\xor_gate\tb_xor_gate.v
+L0 1
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\xor_gate\tb_xor_gate.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VLSI FIRST\CODES\Assignment\Gates_Using_MUX\xor_gate\tb_xor_gate.v|
+!i113 0
+R14
+R2
+vxor_gate_using_mux
+R4
+!i10b 1
+!s100 n]S`5DP22KNMbjX;YGZG`3
+Ib>60W>>bWnU74Ej_kmGjP1
+R5
+R6
+R7
+R8
+R9
+L0 17
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2

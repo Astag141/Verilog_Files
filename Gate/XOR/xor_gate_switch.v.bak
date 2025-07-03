@@ -1,0 +1,9 @@
+module xor_gate_switch(input a, b, output y);
+    wire na, nb, t1, t2;
+
+    not_gate_switch not1(.a(a), .y(na));
+    not_gate_switch not2(.a(b), .y(nb));
+    and_gate_switch and1(.a(na), .b(b), .y(t1));
+    and_gate_switch and2(.a(a), .b(nb), .y(t2));
+    or_gate_switch or1(.a(t1), .b(t2), .y(y));
+endmodule

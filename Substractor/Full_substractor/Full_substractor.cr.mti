@@ -1,0 +1,15 @@
+{D:/VLSI FIRST/Combitional_Circuit/Substractor/Full_substractor/tb_full_subtractor.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/Combitional_Circuit/Substractor/Full_substractor/tb_full_subtractor.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_full_subtractor
+
+Top level modules:
+	tb_full_subtractor
+
+} {} {}} {D:/VLSI FIRST/Combitional_Circuit/Substractor/Full_substractor/full_subtractor.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/Combitional_Circuit/Substractor/Full_substractor/full_subtractor.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module full_subtractor
+
+Top level modules:
+	full_subtractor
+
+} {} {}}
