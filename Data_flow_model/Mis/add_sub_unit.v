@@ -1,1 +1,0 @@
-module add_sub_unit(input [3:0] a, b, input sel, output [3:0] result); assign result = sel ? (a - b) : (a + b); endmodule

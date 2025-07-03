@@ -1,6 +1,0 @@
-module or_gate_switch(input a, b, output y);
-    wire temp;
-
-    nor_gate_switch nor1(.a(a), .b(b), .y(temp));
-    not_gate_switch not1(.a(temp), .y(y));
-endmodule

@@ -1,6 +1,0 @@
-module xnor_gate_switch(input a, b, output y);
-    wire xor_out;
-
-    xor_gate_switch xor1(.a(a), .b(b), .y(xor_out));
-    not_gate_switch not1(.a(xor_out), .y(y));
-endmodule

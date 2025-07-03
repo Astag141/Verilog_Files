@@ -1,1 +1,0 @@
-module tb_parity_checker; reg [3:0] data; reg parity; wire error; parity_checker uut (.data(data), .parity(parity), .error(error)); initial begin data=4'b1010; parity=1; #10 $display("Error=%b", error); parity=0; #10 $display("Error=%b", error); end endmodule
