@@ -1,4 +1,3 @@
-
 module piso (
     input clk,
     input reset,
