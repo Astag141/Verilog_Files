@@ -5,7 +5,6 @@ module piso (
     input load,
     output reg serial_out
 );
-
     reg [3:0] shift_reg;
 
     always @(posedge clk or posedge reset) begin

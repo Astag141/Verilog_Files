@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VLSI FIRST/CODES/Counter_behaviour_model/counter
+T_opt
+!s110 1751882889
+VjO=_gNTeQcX<zDP4P``gU2
+04 6 4 work alu_tb fast 0
+=1-644ed7a17194-686b9c88-37d-5414
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+valu
+Z1 !s110 1751882856
+!i10b 1
+!s100 ml<Nmn;^ML0G@VCFC[XY`3
+I;P]H45GN6a[9ZMVF9zo252
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/VLSI FIRST/CODES/Assignment/ALU
+w1751882566
+8D:/VLSI FIRST/CODES/Assignment/ALU/alu.v
+FD:/VLSI FIRST/CODES/Assignment/ALU/alu.v
+L0 1
+Z4 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z5 !s108 1751882856.000000
+!s107 D:/VLSI FIRST/CODES/Assignment/ALU/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VLSI FIRST/CODES/Assignment/ALU/alu.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+valu_tb
+R1
+!i10b 1
+!s100 69aPBM>aT0iid01h[MW?g1
+IS:M199b5X4Pjk9HcP`i@13
+R2
+R3
+w1751882613
+8D:/VLSI FIRST/CODES/Assignment/ALU/alu_tb.v
+FD:/VLSI FIRST/CODES/Assignment/ALU/alu_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/VLSI FIRST/CODES/Assignment/ALU/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VLSI FIRST/CODES/Assignment/ALU/alu_tb.v|
+!i113 0
+R6
+R0

@@ -1,4 +1,5 @@
 module tb_up_counter;
+
     reg clk = 0;
     reg reset;
     wire [3:0] count;

@@ -1,4 +1,4 @@
-module tb_bin2gray;
+mdule tb_bin2gray;
     reg [3:0] b;
     wire [3:0] g;
     bin2gray uut (.b(b), .g(g));
