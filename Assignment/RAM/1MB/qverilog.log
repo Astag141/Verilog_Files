@@ -1,0 +1,18 @@
+Start time: 15:10:41 on Jul 16,2025
+qverilog tb_even_data_odd_addr.v 
+-- Compiling module tb_even_data_odd_addr
+
+Top level modules:
+	tb_even_data_odd_addr
+# vsim FIRST\SOFT\qeseta sim\win64\vsim work.tb_even_data_odd_addr -lib work -c -do "run -all; quit -f" -appendlog -l qverilog.log -vopt 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: (vopt-13130) Failed to find design unit FIRSTSOFTqeseta.
+#         Searched libraries:
+#             work
+# ** Error: (vopt-13130) Failed to find design unit simwin64vsim.
+#         Searched libraries:
+#             work
+# Optimization failed
+# Error loading design
+# End time: 15:10:43 on Jul 16,2025, Elapsed time: 0:00:02
+# Errors: 2, Warnings: 0

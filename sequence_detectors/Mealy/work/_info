@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI FIRST/CODES/sequence_detectors/Mealy
+vtb_mealy_seq_detector
+!s110 1752654997
+!i10b 1
+!s100 hdRSngemYYdz@BSmkR40l1
+IUNeIUAhGHCUI:F]3QknG20
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1752559067
+8tb_mealy_seq_detector.v
+Ftb_mealy_seq_detector.v
+L0 1
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1752654997.000000
+!s107 tb_mealy_seq_detector.v|mealy_seq_detector.v|
+!s90 -reportprogress|300|mealy_seq_detector.v|tb_mealy_seq_detector.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0

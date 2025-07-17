@@ -1,0 +1,123 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI FIRST/SOFT/qeseta sim/examples
+T_opt
+!s110 1752659433
+V;7^G=R?Kn8_b6Ql@G_oc^0
+04 10 4 work tb_ram_1mb fast 0
+=1-644ed7a17194-687775e9-e1-18c8
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+T_opt1
+!s110 1752658981
+VLPczakNnGE=7[hD]?<VI;1
+04 21 4 work tb_even_data_odd_addr fast 0
+=1-644ed7a17194-68777424-39d-45b4
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1752658508
+VeY^FAeBk2>IMAfU@FCoOe2
+04 21 4 work tb_odd_data_even_addr fast 0
+=1-644ed7a17194-6877724c-29c-5420
+R1
+R2
+n@_opt2
+R3
+R0
+vram_1mb
+Z4 !s110 1752658633
+!i10b 1
+!s100 FOdi=?Xjc3F5UdK1:Lc;>3
+ID0nG^iLIOW;=5o`b4g]a33
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/VLSI FIRST/CODES/Assignment/RAM/1MB
+w1752474602
+8D:/VLSI FIRST/CODES/Assignment/RAM/1MB/ram_1mb.v
+FD:/VLSI FIRST/CODES/Assignment/RAM/1MB/ram_1mb.v
+L0 1
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z8 !s108 1752658633.000000
+!s107 D:/VLSI FIRST/CODES/Assignment/RAM/1MB/ram_1mb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VLSI FIRST/CODES/Assignment/RAM/1MB/ram_1mb.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb_even_data_odd_addr
+!s110 1752658842
+!i10b 1
+!s100 VQ>jS<WXdg]Ah26e]RFj<2
+IkQYSOPJf522i:]m2ok5zm0
+R5
+R6
+w1752475463
+8tb_even_data_odd_addr.v
+Ftb_even_data_odd_addr.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1752658841.000000
+!s107 tb_even_data_odd_addr.v|
+!s90 tb_even_data_odd_addr.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb_odd_data_even_addr
+R4
+!i10b 1
+!s100 HGYTB0P9YgC4[FZ_jmYhk2
+I0S[09>i1[_]nM>P]OKnc`3
+R5
+R6
+w1752475469
+8D:/VLSI FIRST/CODES/Assignment/RAM/1MB/tb_odd_data_even_addr.v
+FD:/VLSI FIRST/CODES/Assignment/RAM/1MB/tb_odd_data_even_addr.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/VLSI FIRST/CODES/Assignment/RAM/1MB/tb_odd_data_even_addr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VLSI FIRST/CODES/Assignment/RAM/1MB/tb_odd_data_even_addr.v|
+!i113 0
+R9
+R2
+vtb_ram_1mb
+R4
+!i10b 1
+!s100 LKFh<5;Ja_18l`XVma@Kg3
+I[mf^<QMz8[knz;IjLE:L@2
+R5
+R6
+w1752474879
+8D:/VLSI FIRST/CODES/Assignment/RAM/1MB/tb_ram_1mb.v
+FD:/VLSI FIRST/CODES/Assignment/RAM/1MB/tb_ram_1mb.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/VLSI FIRST/CODES/Assignment/RAM/1MB/tb_ram_1mb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VLSI FIRST/CODES/Assignment/RAM/1MB/tb_ram_1mb.v|
+!i113 0
+R9
+R2

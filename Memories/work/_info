@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VLSI FIRST/CODES/Memories
+T_opt
+!s110 1752232859
+VhDE`U>n=JFPKOzdI?]zTZ2
+04 6 4 work ram_tb fast 0
+=1-10683832300d-6870f39a-305-6618
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vram
+Z2 !s110 1752232857
+!i10b 1
+!s100 8DWLiS`aBGN:jfX^X`QQQ2
+IGEhHmS7]8IhH=[C9HTC8R3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1752232778
+8ram.v
+Fram.v
+L0 1
+Z4 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z5 !s108 1752232857.000000
+Z6 !s107 ram.v|ram_tb.v|
+Z7 !s90 -reportprogress|300|ram_tb.v|+acc|
+!i113 0
+Z8 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vram_tb
+R2
+!i10b 1
+!s100 imeQP@7zdHf9_RUB>Z0m;2
+I[@^GBh9[`F808Q[ElFZ9F2
+R3
+R0
+w1752232802
+8ram_tb.v
+Fram_tb.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
