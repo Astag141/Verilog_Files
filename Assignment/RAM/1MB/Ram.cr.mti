@@ -1,0 +1,29 @@
+{D:/VLSI FIRST/CODES/Assignment/RAM/1MB/ram_1mb.v} {1 {vlog -work work -vopt -stats=none {D:\VLSI FIRST\CODES\Assignment\RAM\1MB\ram_1mb.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module ram_1mb
+
+Top level modules:
+	ram_1mb
+
+} {} {}} {D:/VLSI FIRST/CODES/Assignment/RAM/1MB/tb_odd_data_even_addr.v} {1 {vlog -work work -vopt -stats=none {D:\VLSI FIRST\CODES\Assignment\RAM\1MB\tb_odd_data_even_addr.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_odd_data_even_addr
+
+Top level modules:
+	tb_odd_data_even_addr
+
+} {} {}} {D:/VLSI FIRST/CODES/Assignment/RAM/1MB/tb_even_data_odd_addr.v} {1 {vlog -work work -vopt -stats=none {D:\VLSI FIRST\CODES\Assignment\RAM\1MB\tb_even_data_odd_addr.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_even_data_odd_addr
+
+Top level modules:
+	tb_even_data_odd_addr
+
+} {} {}} {D:/VLSI FIRST/CODES/Assignment/RAM/1MB/tb_ram_1mb.v} {1 {vlog -work work -vopt -stats=none {D:\VLSI FIRST\CODES\Assignment\RAM\1MB\tb_ram_1mb.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_ram_1mb
+
+Top level modules:
+	tb_ram_1mb
+
+} {} {}}

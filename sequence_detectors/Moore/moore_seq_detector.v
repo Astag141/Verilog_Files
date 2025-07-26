@@ -4,12 +4,17 @@ module moore_seq_detector (
     input x,
     output reg z
 );
-    typedef enum logic [2:0] {
-        S0, S1, S2, S3, S4
-    } state_t;
 
-    state_t current_state, next_state;
+    // State encoding
+    localparam S0 = 3'b000;
+    localparam S1 = 3'b001;
+    localparam S2 = 3'b010;
+    localparam S3 = 3'b011;
+    localparam S4 = 3'b100;
 
+    reg [2:0] current_state, next_state;
+
+    // State register
     always @(posedge clk or posedge reset) begin
         if (reset)
             current_state <= S0;
@@ -17,6 +22,7 @@ module moore_seq_detector (
             current_state <= next_state;
     end
 
+    // Next state logic
     always @(*) begin
         case (current_state)
             S0: next_state = (x == 1) ? S1 : S0;
@@ -28,7 +34,9 @@ module moore_seq_detector (
         endcase
     end
 
+    // Output logic
     always @(*) begin
-        z = (current_state == S4) ? 1 : 0;
+        z = (current_state == S4) ? 1'b1 : 1'b0;
     end
+
 endmodule

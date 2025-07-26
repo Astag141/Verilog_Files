@@ -6,7 +6,7 @@ module ripple_carry_adder_tb;
     wire cout;
     
     ripple_carry_adder #(N) uut(a, b, cin, sum, cout);
-    
+   
     initial begin
         $display("Testing Ripple Carry Adder (4-bit)");
         

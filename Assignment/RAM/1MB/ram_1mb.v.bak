@@ -1,0 +1,22 @@
+module ram_1mb #(
+    parameter DATA_WIDTH = 8,           // Number of bits per data word
+    parameter ADDR_WIDTH = 20           // Number of address bits (2^20 = 1MB for default)
+) (
+    input wire clk,
+    input wire we,                      // Write enable
+    input wire [ADDR_WIDTH-1:0] addr,   // Address input
+    input wire [DATA_WIDTH-1:0] data_in,
+    output reg [DATA_WIDTH-1:0] data_out
+);
+
+    // Parameterized memory array
+    reg [DATA_WIDTH-1:0] mem [0:(1<<ADDR_WIDTH)-1];
+
+    always @(posedge clk) begin
+        if (we)
+            mem[addr] <= data_in;
+        data_out <= mem[addr];
+    end
+
+endmodule
+

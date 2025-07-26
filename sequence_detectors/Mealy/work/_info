@@ -8,24 +8,54 @@ z2
 !i10f 100
 cModel Technology
 Z0 dD:/VLSI FIRST/CODES/sequence_detectors/Mealy
-vtb_mealy_seq_detector
-!s110 1752654997
+T_opt
+!s110 1752947755
+VYcO0=IP;HF28NQoDcZ85f2
+04 21 4 work tb_mealy_seq_detector fast 0
+=1-644ed7a17194-687bdc2b-d5-11a4
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vmealy_seq_detector
+Z2 !s110 1752947750
 !i10b 1
-!s100 hdRSngemYYdz@BSmkR40l1
-IUNeIUAhGHCUI:F]3QknG20
-VDg1SIo80bB@j0V0VzS_@n1
+!s100 >j>U=AI]hMfY2[:]c1EgQ1
+IcNYm58LFRL2noPn]Te6Co2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
 R0
-w1752559067
-8tb_mealy_seq_detector.v
-Ftb_mealy_seq_detector.v
+w1752947747
+8D:\VLSI FIRST\CODES\sequence_detectors\Mealy\mealy_seq_detector.v
+FD:\VLSI FIRST\CODES\sequence_detectors\Mealy\mealy_seq_detector.v
 L0 1
-OL;L;10.7c;67
+Z4 OL;L;10.7c;67
 r1
 !s85 0
 31
-!s108 1752654997.000000
-!s107 tb_mealy_seq_detector.v|mealy_seq_detector.v|
-!s90 -reportprogress|300|mealy_seq_detector.v|tb_mealy_seq_detector.v|
+Z5 !s108 1752947750.000000
+!s107 D:\VLSI FIRST\CODES\sequence_detectors\Mealy\mealy_seq_detector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VLSI FIRST\CODES\sequence_detectors\Mealy\mealy_seq_detector.v|
 !i113 0
-o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-tCvgOpt 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtb_mealy_seq_detector
+R2
+!i10b 1
+!s100 hdRSngemYYdz@BSmkR40l1
+Il_@2BAZDg?U9=amYmRHOQ0
+R3
+R0
+w1752559067
+8D:\VLSI FIRST\CODES\sequence_detectors\Mealy\tb_mealy_seq_detector.v
+FD:\VLSI FIRST\CODES\sequence_detectors\Mealy\tb_mealy_seq_detector.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\VLSI FIRST\CODES\sequence_detectors\Mealy\tb_mealy_seq_detector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\VLSI FIRST\CODES\sequence_detectors\Mealy\tb_mealy_seq_detector.v|
+!i113 0
+R6
+R1

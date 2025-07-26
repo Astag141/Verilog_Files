@@ -1,0 +1,15 @@
+{D:/VLSI FIRST/CODES/sequence_detectors/Mealy/tb_mealy_seq_detector.v} {1 {vlog -work work -vopt -stats=none {D:\VLSI FIRST\CODES\sequence_detectors\Mealy\tb_mealy_seq_detector.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_mealy_seq_detector
+
+Top level modules:
+	tb_mealy_seq_detector
+
+} {} {}} {D:/VLSI FIRST/CODES/sequence_detectors/Mealy/mealy_seq_detector.v} {1 {vlog -work work -vopt -stats=none {D:\VLSI FIRST\CODES\sequence_detectors\Mealy\mealy_seq_detector.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module mealy_seq_detector
+
+Top level modules:
+	mealy_seq_detector
+
+} {} {}}

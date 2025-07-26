@@ -4,11 +4,12 @@ module mealy_seq_detector (
     input x,
     output reg z
 );
-    typedef enum logic [1:0] {
-        S0, S1, S2, S3
-    } state_t;
-
-    state_t current_state, next_state;
+    // State encoding
+    localparam S0 = 2'b00;
+    localparam S1 = 2'b01;
+    localparam S2 = 2'b10;
+    localparam S3 = 2'b11;
+    reg [1:0] current_state, next_state;
 
     always @(posedge clk or posedge reset) begin
         if (reset)
@@ -16,7 +17,6 @@ module mealy_seq_detector (
         else
             current_state <= next_state;
     end
-
     always @(*) begin
         z = 0;
         case (current_state)
@@ -32,6 +32,8 @@ module mealy_seq_detector (
                     z = 0;
                 end
             end
+            default: next_state = S0;
         endcase
     end
 endmodule
+

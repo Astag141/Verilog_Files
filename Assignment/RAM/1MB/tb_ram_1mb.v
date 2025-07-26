@@ -1,4 +1,3 @@
-
 module tb_ram_1mb;
     reg clk = 0;
     reg we = 0;
@@ -32,6 +31,7 @@ module tb_ram_1mb;
         addr = 20'h00002; #10;
         $display("Read Addr %h: %h", addr, data_out);
 
-        $finish;
+       $finish ;
+
     end
 endmodule

@@ -1,0 +1,15 @@
+{D:/VLSI FIRST/CODES/FIFO/Synchronous_FIFO.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/CODES/FIFO/Synchronous_FIFO.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module Synchronous_FIFO
+
+Top level modules:
+	Synchronous_FIFO
+
+} {} {}} {D:/VLSI FIRST/CODES/FIFO/tb_Synchronous_FIFO.v} {1 {vlog -work work -vopt -stats=none {D:/VLSI FIRST/CODES/FIFO/tb_Synchronous_FIFO.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_Synchronous_FIFO
+
+Top level modules:
+	tb_Synchronous_FIFO
+
+} {} {}}
